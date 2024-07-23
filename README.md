@@ -3,31 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>What Happens When You Type https://www.google.com and Press Enter</title>
+   
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            padding: 20px;
-            background-color: #f8f9fa;
-        }
-        h1, h2 {
-            color: #343a40;
-        }
-        p {
-            margin-bottom: 1rem;
-        }
-        .container {
-            background: #fff;
-            padding: 20px;
-            border-radius: 5px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        .section {
-            margin-bottom: 2rem;
-        }
-    </style>
+   
 </head>
 <body>
     <div class="container">
